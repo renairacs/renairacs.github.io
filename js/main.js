@@ -1,1 +1,3 @@
-$('table').dataTable();
+$('table').dataTable({
+ajax: './data/estabelecimentos.json'
+});
