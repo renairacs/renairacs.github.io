@@ -1,7 +1,7 @@
 [
     {
         "estabelecimento":      "Local Teste 1",
-        "tipo":                 "Supermercado"
+        "tipo":                 "Supermercado",
         "endereco":             "Rua Teste 1",
         "cidade":               "Ribeirao Preto",
         "estado":               "SP",
@@ -9,7 +9,7 @@
     },
     {
         "estabelecimento":      "Local Teste 2",
-        "tipo":                 "Cinema"
+        "tipo":                 "Cinema",
         "endereco":             "Rua Teste 2",
         "cidade":               "Orlandia",
         "estado":               "SP",
