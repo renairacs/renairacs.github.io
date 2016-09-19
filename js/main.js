@@ -1,6 +1,6 @@
 $('table').dataTable({
 ajax: './data/estabelecimentos.json',
-dom: '<"wrapper"tip>',
+dom: '<tip>',
 columns: [
     { data: 'imagem' },
     { data: 'estabelecimento' },      
