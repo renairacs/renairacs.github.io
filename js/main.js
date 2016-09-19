@@ -5,7 +5,7 @@ columns: [
     { data: 'estabelecimento' },      
     { data: 'tipo' },
     { data: 'endereco' },
-    { data: 'estado' },
-    { data: 'cidade' } /* Mapeia colunas */
+    { data: 'cidade' },
+    { data: 'estado' } /* Mapeia colunas */
 ]
 });
