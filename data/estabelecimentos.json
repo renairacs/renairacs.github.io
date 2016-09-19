@@ -1,18 +1,20 @@
-[
-    {
-        "estabelecimento":      "Local Teste 1",
-        "tipo":                 "Supermercado",
-        "endereco":             "Rua Teste 1",
-        "cidade":               "Ribeirao Preto",
-        "estado":               "SP",
-        "imagem":               "./img/0001.png"
-    },
-    {
-        "estabelecimento":      "Local Teste 2",
-        "tipo":                 "Cinema",
-        "endereco":             "Rua Teste 2",
-        "cidade":               "Orlandia",
-        "estado":               "SP",
-        "imagem":               "./img/0002.png"
-    }
-]
+{
+    "data": [
+        {
+            "estabelecimento":      "Local Teste 1",
+            "tipo":                 "Supermercado",
+            "endereco":             "Rua Teste 1",
+            "cidade":               "Ribeirao Preto",
+            "estado":               "SP",
+            "imagem":               "./img/0001.png"
+        },
+        {
+            "estabelecimento":      "Local Teste 2",
+            "tipo":                 "Cinema",
+            "endereco":             "Rua Teste 2",
+            "cidade":               "Orlandia",
+            "estado":               "SP",
+            "imagem":               "./img/0002.png"
+        }
+    ]
+}
