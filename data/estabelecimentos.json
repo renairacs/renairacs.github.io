@@ -15,6 +15,14 @@
             "cidade":               "Orlandia",
             "estado":               "SP",
             "imagem":               "./img/0002.png"
+        },
+         {
+            "estabelecimento":      "Local Teste 3",
+            "tipo":                 "Lanchonete",
+            "endereco":             "Rua Teste 3",
+            "cidade":               "Sertaozinho",
+            "estado":               "SP",
+            "imagem":               "./img/0002.png"
         }
     ]
 }
