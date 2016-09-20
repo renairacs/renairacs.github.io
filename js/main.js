@@ -12,5 +12,5 @@ columns: [
 });
 
 $('#campo-de-busca').on('keyup', function () {
-    tabela.search(this.value).draw()
+    tabela.api().search(this.value).draw()
 })
