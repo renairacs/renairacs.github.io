@@ -12,4 +12,6 @@ columns: [
 ]
 });
 
-$('#campo-busca')
+$('#campo-busca').on('keyup', function () {
+    tabela.search(this.value).draw()
+})
