@@ -1,3 +1,4 @@
+var tabela = $('table').dataTable({
 $('table').dataTable({
 ajax: './data/estabelecimentos.json',
 dom: '<tip>',
