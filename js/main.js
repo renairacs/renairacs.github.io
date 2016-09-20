@@ -11,3 +11,5 @@ columns: [
     { data: 'estado' } /* Mapeia colunas */
 ]
 });
+
+$('#campo-busca')
