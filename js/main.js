@@ -11,6 +11,6 @@ columns: [
 ]
 });
 
-$('#campo-busca').on('keyup', function () {
+$('#campo-de-busca').on('keyup', function () {
     tabela.search(this.value).draw()
 })
